@@ -1,0 +1,6 @@
+[submodule "ultra-chat-backend"]
+	path = ultra-chat-backend
+	url = https://github.com/GDGVIT/ultra-chat-backend.git
+[submodule "ultra-chat-bot"]
+	path = ultra-chat-bot
+	url = https://github.com/GDGVIT/ultra-chat-bot.git
